@@ -1,5 +1,0 @@
-C:\Users\X\Desktop\New folder (2)\src\AddressProcessor\bin\Debug\AddressProcessing.dll
-C:\Users\X\Desktop\New folder (2)\src\AddressProcessor\bin\Debug\AddressProcessing.pdb
-C:\Users\X\Desktop\New folder (2)\src\AddressProcessor\obj\Debug\AddressProcessing.csprojResolveAssemblyReference.cache
-C:\Users\X\Desktop\New folder (2)\src\AddressProcessor\obj\Debug\AddressProcessing.dll
-C:\Users\X\Desktop\New folder (2)\src\AddressProcessor\obj\Debug\AddressProcessing.pdb
