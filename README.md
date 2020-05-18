@@ -1,3 +1,5 @@
+The trainline coding challenge and solution.
+
 Summary
 -------
 
